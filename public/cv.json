@@ -5,7 +5,7 @@
       "title": "Data Engineer",
       "residence": "Hanoi, Vietnam.",
       "headshot": {
-        "source": "http://cv.techpago.com/headshot.png"
+        "source": "http://cv.techpago.com/headshot.jpg"
       },
       "mobile": "(+84)985797649",
       "skype": "phanducviet3695",
@@ -64,14 +64,6 @@
             "value": "Intermediate"
           },
           {
-            "name": "HTML",
-            "value": "Intermediate"
-          },
-          {
-            "name": "CSS",
-            "value": "Intermediate"
-          },
-          {
             "name": "React Native",
             "value": "Intermediate"
           },
@@ -92,6 +84,14 @@
             "value": "Intermediate"
           },
           {
+            "name": "HTML",
+            "value": "Intermediate"
+          },
+          {
+            "name": "CSS",
+            "value": "Intermediate"
+          },
+          {
             "name": "Docker",
             "value": "Intermediate"
           },
@@ -107,12 +107,7 @@
       },
       "paradigms": {
         "items": [
-          "Big Data",
-          "Machine Learning",
-          "Async",
-          "Object Oriented",
-          "Functional",
-          "Microservices"
+          
         ]
       }
     }

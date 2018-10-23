@@ -22,6 +22,9 @@ export class Paradigms extends React.Component {
             labelClassName
         } = this.props;
 
+        if (items.length == 0) {
+            return false;
+        }
         return (
             <LabeledList items={items}
                          label={label}
