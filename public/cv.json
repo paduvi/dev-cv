@@ -1,29 +1,29 @@
 {
   "brief": {
     "person": {
-      "name": "Eyal Perry",
-      "title": "Full Stack Developer",
-      "residence": "Karmiel, Israel.",
+      "name": "Phan Đức Việt",
+      "title": "Data Engineer",
+      "residence": "Hanoi, Vietnam.",
       "headshot": {
         "source": "http://cv.techpago.com/headshot.png"
       },
-      "mobile": "+972-54-314-6808",
-      "skype": "e.perry.pa",
-      "email": "e.perry.pa@gmail.com"
+      "mobile": "(+84)985797649",
+      "skype": "phanducviet3695",
+      "email": "viet3695@gmail.com"
     },
     "links": [
       {
-        "url": "https://www.linkedin.com/in/eyalperry/",
-        "imageSource": "http://cv.techpago.com/linkedin.png",
-        "imageAlt": "LinkedIn"
+        "url": "http://techpago.com",
+        "imageSource": "http://cv.techpago.com/blog.png",
+        "imageAlt": "Blog"
       },
       {
-        "url": "https://stackoverflow.com/story/eyal-perry",
+        "url": "https://stackoverflow.com/users/4728650/viet-phan",
         "imageSource": "http://cv.techpago.com/stackoverflow.png",
         "imageAlt": "StackOverflow"
       },
       {
-        "url": "https://github.com/EyalPerry",
+        "url": "https://github.com/paduvi",
         "imageSource": "http://cv.techpago.com/github.svg",
         "imageAlt": "GitHub"
       }
@@ -32,15 +32,15 @@
       "technologies": {
         "items": [
           {
-            "name": "C#",
-            "value": "Expert"
-          },
-          {
-            "name": ".NET/Core",
+            "name": "Java",
             "value": "Expert"
           },
           {
             "name": "Javascript",
+            "value": "Expert"
+          },
+          {
+            "name": "Nodejs",
             "value": "Proficient"
           },
           {
@@ -52,27 +52,43 @@
             "value": "Proficient"
           },
           {
-            "name": "ReactiveX",
+            "name": "Python",
             "value": "Proficient"
+          },
+          {
+            "name": "Pytorch",
+            "value": "Proficient"
+          },
+          {
+            "name": "Tensorflow",
+            "value": "Intermediate"
           },
           {
             "name": "HTML",
             "value": "Intermediate"
           },
           {
-            "name": "S/CSS",
+            "name": "CSS",
             "value": "Intermediate"
           },
           {
-            "name": "Node.js",
+            "name": "React Native",
             "value": "Intermediate"
           },
           {
-            "name": "MongoDB",
+            "name": "Linux",
             "value": "Intermediate"
           },
           {
-            "name": "RabbitMQ",
+            "name": "SQL",
+            "value": "Intermediate"
+          },
+          {
+            "name": "Spark",
+            "value": "Intermediate"
+          },
+          {
+            "name": "Databases",
             "value": "Intermediate"
           },
           {
@@ -91,12 +107,12 @@
       },
       "paradigms": {
         "items": [
-          "Test Driven",
+          "Big Data",
+          "Machine Learning",
           "Async",
           "Object Oriented",
           "Functional",
-          "Microservices",
-          "Reactive"
+          "Microservices"
         ]
       }
     }
@@ -111,14 +127,25 @@
           "paragraphs": [
             "Designing, Testing & Developing a Cloud Backed IoT application."
           ],
-          "techStack":[
-            "React", "Redux", "Javascript",
-            "HTML", "S/CSS",
-            "Webpack", "Babel", "Jest",
-            "Node.js", "Express",
-            ".NET Core", "C#", "XUnit",
+          "techStack": [
+            "React",
+            "Redux",
+            "Javascript",
+            "HTML",
+            "S/CSS",
+            "Webpack",
+            "Babel",
+            "Jest",
+            "Node.js",
+            "Express",
+            ".NET Core",
+            "C#",
+            "XUnit",
             "ReactiveX",
-            "MongoDB", "RabbitMQ", "Docker", "AWS"
+            "MongoDB",
+            "RabbitMQ",
+            "Docker",
+            "AWS"
           ],
           "projects": {
             "items": [
@@ -159,7 +186,7 @@
           "paragraphs": [
             "Developing Software Systems and API's, as specified by client stakeholders."
           ],
-          "techStack":[
+          "techStack": [
             "C#",
             ".NET",
             "MongoDB",
@@ -199,8 +226,9 @@
               "Evaluating and reviewing solutions of lab assignments."
             ]
           ],
-          "techStack":[
-            "C#", ".NET"
+          "techStack": [
+            "C#",
+            ".NET"
           ]
         },
         {
@@ -211,7 +239,7 @@
           "paragraphs": [
             "Development of in-house and client facing Software Systems."
           ],
-          "techStack":[
+          "techStack": [
             "C#",
             "WPF",
             ".NET",
