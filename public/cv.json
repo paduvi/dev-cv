@@ -5,7 +5,7 @@
       "title": "Data Engineer",
       "residence": "Hanoi, Vietnam.",
       "headshot": {
-        "source": "http://cv.techpago.com/headshot.jpg"
+        "source": "/headshot.jpg"
       },
       "mobile": "(+84)985797649",
       "skype": "phanducviet3695",
@@ -14,17 +14,17 @@
     "links": [
       {
         "url": "http://techpago.com",
-        "imageSource": "http://cv.techpago.com/blog.png",
+        "imageSource": "/blog.png",
         "imageAlt": "Blog"
       },
       {
         "url": "https://stackoverflow.com/users/4728650/viet-phan",
-        "imageSource": "http://cv.techpago.com/stackoverflow.png",
+        "imageSource": "/stackoverflow.png",
         "imageAlt": "StackOverflow"
       },
       {
         "url": "https://github.com/paduvi",
-        "imageSource": "http://cv.techpago.com/github.svg",
+        "imageSource": "/github.svg",
         "imageAlt": "GitHub"
       }
     ],
