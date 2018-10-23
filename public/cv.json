@@ -5,7 +5,7 @@
       "title": "Full Stack Developer",
       "residence": "Karmiel, Israel.",
       "headshot": {
-        "source": "http://localhost:3000/headshot.png"
+        "source": "http://cv.techpago.com/headshot.png"
       },
       "mobile": "+972-54-314-6808",
       "skype": "e.perry.pa",
@@ -14,17 +14,17 @@
     "links": [
       {
         "url": "https://www.linkedin.com/in/eyalperry/",
-        "imageSource": "http://localhost:3000/linkedin.png",
+        "imageSource": "http://cv.techpago.com/linkedin.png",
         "imageAlt": "LinkedIn"
       },
       {
         "url": "https://stackoverflow.com/story/eyal-perry",
-        "imageSource": "http://localhost:3000/stackoverflow.png",
+        "imageSource": "http://cv.techpago.com/stackoverflow.png",
         "imageAlt": "StackOverflow"
       },
       {
         "url": "https://github.com/EyalPerry",
-        "imageSource": "http://localhost:3000/github.svg",
+        "imageSource": "http://cv.techpago.com/github.svg",
         "imageAlt": "GitHub"
       }
     ],
