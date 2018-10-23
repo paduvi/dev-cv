@@ -84,7 +84,7 @@ module.exports = {
         })
     ],
     devServer: {
-        open: true,
+        open: false,
         port: 3000,
         stats: 'errors-only',
         historyApiFallback: true,

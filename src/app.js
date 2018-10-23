@@ -20,7 +20,7 @@ class App extends Component {
     };
 
     componentDidMount = () => {
-        (fetch('http://localhost:3000/cv.json')
+        (fetch('/cv.json')
             .then(response => response.json())
             .then(value => this.setState({value}))
             .catch(error => {
