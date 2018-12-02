@@ -41,26 +41,30 @@
           },
           {
             "name": "Nodejs",
-            "value": "Proficient"
-          },
-          {
-            "name": "React",
-            "value": "Proficient"
-          },
-          {
-            "name": "Redux",
-            "value": "Proficient"
+            "value": "Expert"
           },
           {
             "name": "Python",
-            "value": "Proficient"
+            "value": "Expert"
           },
           {
             "name": "Pytorch",
+            "value": "Expert"
+          },
+          {
+            "name": "Golang",
+            "value": "Proficient"
+          },
+          {
+            "name": "ReactJS",
             "value": "Proficient"
           },
           {
             "name": "Tensorflow",
+            "value": "Intermediate"
+          },
+          {
+            "name": "Redux",
             "value": "Intermediate"
           },
           {
@@ -76,19 +80,7 @@
             "value": "Intermediate"
           },
           {
-            "name": "Spark",
-            "value": "Intermediate"
-          },
-          {
-            "name": "Databases",
-            "value": "Intermediate"
-          },
-          {
-            "name": "HTML",
-            "value": "Intermediate"
-          },
-          {
-            "name": "CSS",
+            "name": "HTML5/CSS3",
             "value": "Intermediate"
           },
           {
@@ -102,13 +94,19 @@
           {
             "name": "AWS",
             "value": "Basic"
+          },
+          {
+            "name": "Spark",
+            "value": "Basic"
+          },
+          {
+            "name": "NoSQL",
+            "value": "Basic"
           }
         ]
       },
       "paradigms": {
-        "items": [
-          
-        ]
+        "items": []
       }
     }
   },
@@ -116,214 +114,69 @@
     "experience": {
       "items": [
         {
-          "title": "Full Stack Developer",
-          "company": "CorAlert",
-          "startDate": "July 2017",
+          "title": "Data Scientist",
+          "company": "VCCorp",
+          "startDate": "January 2017",
           "paragraphs": [
-            "Designing, Testing & Developing a Cloud Backed IoT application."
+            "Designing, Developing a Recommendation System for News."
           ],
           "techStack": [
-            "React",
-            "Redux",
-            "Javascript",
-            "HTML",
-            "S/CSS",
-            "Webpack",
-            "Babel",
-            "Jest",
-            "Node.js",
-            "Express",
-            ".NET Core",
-            "C#",
-            "XUnit",
-            "ReactiveX",
-            "MongoDB",
-            "RabbitMQ",
+            "Java",
+            "Python",
+            "Golang",
+            "Mysql",
+            "Redis",
+            "Pytorch",
+            "Tensorflow",
             "Docker",
-            "AWS"
-          ],
-          "projects": {
-            "items": [
-              {
-                "name": "CorAlert Device",
-                "startDate": "July 2017",
-                "paragraphs": [
-                  "Development of a software stack for a medical device which detects heart failure."
-                ],
-                "features": [
-                  "Upstream synchronization of logs and data.",
-                  "Downstream synchronization of software versions and configuration profiles.",
-                  "Configurable Parallelism of Medical algorithms"
-                ]
-              },
-              {
-                "name": "CorAlert Management Console",
-                "startDate": "July 2017",
-                "paragraphs": [
-                  "Development of a cloud application which complements the company's device."
-                ],
-                "features": [
-                  "Track the status of devices.",
-                  "Deploy configuration profiles to devices.",
-                  "Deploy software versions to devices.",
-                  "View device logs (both historical and real time).",
-                  "View device generated data."
-                ]
-              }
-            ]
-          }
+            "Docker Compose",
+            "Apache Kafka",
+            "Spark"
+          ]
         },
         {
-          "title": "Software Developer",
-          "company": "CodeValue",
-          "startDate": "March 2016",
-          "endDate": "July 2017",
-          "paragraphs": [
-            "Developing Software Systems and API's, as specified by client stakeholders."
-          ],
-          "techStack": [
-            "C#",
-            ".NET",
-            "MongoDB",
-            "WPF",
-            "ReactiveX",
-            "XUnit"
-          ],
-          "projects": {
-            "items": [
-              {
-                "name": "Video Camera Framework",
-                "startDate": "March 2016",
-                "endDate": "February 2017",
-                "paragraphs": [
-                  "The framework abstracts client code from intricacies of vendor implementation of video camera drivers."
-                ],
-                "features": [
-                  "Standardization of video camera functionality",
-                  "Extensible via Base Classes",
-                  "Configuration agnostic",
-                  "Protocol Agnostic - (IP, USB, etc.)"
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "title": "Teaching Assistant",
-          "company": "CodeValue",
-          "startDate": "June 2016",
-          "endDate": "July 2017",
+          "title": "Full Stack Developer & Teaching Assistant",
+          "company": "Techmaster",
+          "startDate": "April 2015",
+          "endDate": "January 2017",
           "paragraphs": [
             [
-              "Training entry level employees, as part of an introductory .NET course.",
-              "Screening candidates by evaluation of assignments",
-              "Conducting hands-on coding sessions.",
-              "Evaluating and reviewing solutions of lab assignments."
+              "Training entry level employees, as part of an introductory Nodejs course.",
+              "Developing Software Systems and API's for education and video streaming."
             ]
           ],
           "techStack": [
-            "C#",
-            ".NET"
+            "Javascript",
+            "Nodejs",
+            "Golang",
+            "ReactJS",
+            "PostgreSQL",
+            "Redis"
           ]
         },
         {
           "title": "Software Developer",
-          "company": "Zeiss",
-          "startDate": "February 2013",
-          "endDate": "March 2016",
+          "company": "EDX",
+          "startDate": "June 2014",
+          "endDate": "March 2015",
           "paragraphs": [
-            "Development of in-house and client facing Software Systems."
+            "Developing Backend for a Real Estate System."
           ],
           "techStack": [
-            "C#",
-            "WPF",
-            ".NET",
-            "Entity Framework"
-          ],
-          "projects": {
-            "items": [
-              {
-                "name": "Object Configuration Library",
-                "startDate": "September 2015",
-                "endDate": "March 2016",
-                "paragraphs": [
-                  "Developing a library which bridges the gap between native objects and managed code, By Mutating properties of live (in-memory) native objects via a C# API"
-                ]
-              },
-              {
-                "name": "Project Manager",
-                "startDate": "March 2014",
-                "endDate": "March 2016",
-                "paragraphs": [
-                  "Implementation of a Project Resource Management web application"
-                ],
-                "features": [
-                  "Manual input of work hours- per employee, per project, per date.",
-                  "Email notification of non complying employees.",
-                  "Management of employees, departments, projects and project categories.",
-                  "Report Generation"
-                ]
-              },
-              {
-                "name": "CDC / RegC Application",
-                "startDate": "February 2013",
-                "endDate": "March 2016",
-                "paragraphs": [
-                  "Maintaining and developing a composite-machine control application."
-                ]
-              }
-            ]
-          }
+            "Java",
+            "MongoDB",
+            "Apache Solr"
+          ]
         }
       ]
     },
     "education": {
       "items": [
         {
-          "degree": "B.Sc. Software Engineering",
-          "institution": "Ort Braude College",
-          "gpa": 83,
-          "classOf": 2016,
-          "projects": {
-            "name": "Smart Calendar",
-            "startDate": "March 2015",
-            "endDate": "January 2016",
-            "paragraphs": [
-              "An Android Application which enhances itinerary management with location awareness."
-            ],
-            "features": [
-              {
-                "name": "Leave on Time",
-                "paragraphs": [
-                  "Notify users when they should depart their current location, so that no appointment is ever missed"
-                ]
-              },
-              {
-                "name": "Scheduling Collision Detection",
-                "paragraphs": [
-                  "Warn users about events they would not be able to attend due to time and location constraints"
-                ]
-              },
-              {
-                "name": "Supervised Itinerary Management",
-                "paragraphs": [
-                  "A supervisor user (ex. a manager) can share a view only calendar with a supervised user (ex. employee)"
-                ]
-              },
-              {
-                "name": "Itinerary Progression Tracking",
-                "paragraphs": [
-                  "Informs supervisor users whenever their subordinates arrive at the venue, are going to be late to the venue or are leaving the venue ahead of time."
-                ]
-              }
-            ],
-            "techStack": [
-              "C#",
-              ".NET",
-              "Entity Framework",
-              "Android"
-            ]
-          }
+          "degree": "B.Sc Information System Engineer",
+          "institution": "ELITECH - HUST",
+          "gpa": 3.0,
+          "classOf": 2013
         }
       ]
     }
